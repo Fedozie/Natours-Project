@@ -1,5 +1,5 @@
 @mixin clearfix{
-    //Mixin clear items after using float
+    //Mixin to clear items after using float
     &::after{
         content: "";
         display: table;
